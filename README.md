@@ -4,11 +4,12 @@
 In this GitHub repository, delve into the intricate world of carbon emission prediction, a critical aspect of environmental sustainability. This project, originally conceived as a college endeavor, has evolved into a comprehensive exploration of data analysis and machine learning techniques to forecast carbon emissions accurately.
 
 #### Overview:
-The repository meticulously documents the journey from raw data to actionable insights, spanning the years 1970 to 2023. Through a series of meticulous preprocessing steps and exploratory data analysis (EDA) techniques, the project uncovers hidden patterns and trends in carbon emission data.
+The repository meticulously documents the journey from raw data to actionable insights, spanning the years 1970 to 2023. Through a series of meticulous preprocessing steps and exploratory data analysis (EDA) techniques, the project uncovers hidden patterns and trends in carbon emission data.![carbon](https://github.com/mdoctos/CArbon_emisson-Predictioon/assets/57889962/9b029a89-2b4a-4f4d-8b02-c1f78cfc3329)
+
 
 #### Data Preprocessing and EDA:
 Utilizing a combination of data cleaning methodologies, including handling missing data, annotation, and outlier detection, the repository showcases a robust approach to ensure data integrity. Comprehensive EDA techniques, such as statistical analysis and visualization, offer valuable insights into the historical trends and drivers of carbon emissions.
-![Screenshot (273)](https://github.com/mdoctos/CArbon_emisson-Predictioon/assets/57889962/a15ad6a6-4872-4ce3-b90c-70008f0deda2)
+
 
 
 #### Machine Learning Approach:
