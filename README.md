@@ -8,7 +8,8 @@ The repository meticulously documents the journey from raw data to actionable in
 
 #### Data Preprocessing and EDA:
 Utilizing a combination of data cleaning methodologies, including handling missing data, annotation, and outlier detection, the repository showcases a robust approach to ensure data integrity. Comprehensive EDA techniques, such as statistical analysis and visualization, offer valuable insights into the historical trends and drivers of carbon emissions.
-![Uploading Screenshot (273).png…]()
+![Screenshot (273)](https://github.com/mdoctos/CArbon_emisson-Predictioon/assets/57889962/a15ad6a6-4872-4ce3-b90c-70008f0deda2)
+
 
 #### Machine Learning Approach:
 The heart of the project lies in the application of supervised machine learning techniques to predict carbon emissions. After rigorous experimentation with various models, including Logistic Regression, Decision Trees, Random Forests, Support Vector Machines, and Multi-Layer Perceptrons, the repository arrives at a compelling conclusion.
